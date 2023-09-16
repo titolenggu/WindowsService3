@@ -34,6 +34,7 @@
             // serviceProcessInstaller1
             // 
             this.serviceProcessInstaller1.Account = System.ServiceProcess.ServiceAccount.LocalSystem;  //whoever login run this service
+            //asdf
 
 
             this.serviceProcessInstaller1.Password = null;
